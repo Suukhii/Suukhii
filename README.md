@@ -1,17 +1,17 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
-
+<div align="center">
+  <a href="https://github.com/Suukhii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
+</div>
+<div style="display: inline_block"><br>
 I want to git guud in programming or smth
 
 - 🖥️ I’m currently learning python and C++
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
 
-<div align="center">
-  <a href="https://github.com/Suukhii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
-</div>
-
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
