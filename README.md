@@ -33,13 +33,14 @@ I want to git guud in programming or smth
 <details>
   <summary>:zap: GitHub Stats</summary>
 <p>
-  <img align="left" alt="Suukhii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+#  <img align="left" alt="Suukhii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
 </p>
 
+
+
+
 ## Snake 
-
-
 ![snake gif](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.gif)
