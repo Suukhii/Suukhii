@@ -34,7 +34,7 @@ I want to git guud in programming or smth
 
 
 ###Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&theme=synthwave “Suukhii’ Top Languages Card”)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii& “Suukhii’ Top Languages Card”)
 
 <br />
 <br />
