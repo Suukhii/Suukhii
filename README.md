@@ -1,5 +1,13 @@
 # Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
+# I want to git guud in programming or smth
+
+- 🖥️ I’m currently learning python and C++
+- 💤 I’m looking foreard to sleep time
+- 🎮 I love to play games and sleep 
+- 
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
