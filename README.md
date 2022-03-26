@@ -32,7 +32,4 @@ I want to git guud in programming or smth
 <br />
 <br />
   
- 
-</div>
 ![Snake animation](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.svg)
- </div>
