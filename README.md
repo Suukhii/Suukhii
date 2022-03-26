@@ -33,6 +33,6 @@ I want to git guud in programming or smth
 <br />
   
  
-</div>![Snake animation](https://github.com/Suukhii/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+![Snake animation](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.svg)
+ </div>
