@@ -7,8 +7,8 @@ I want to git guud in programming or smth
 
 <div align="">
   <a href="https://github.com/Suukhii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
 
