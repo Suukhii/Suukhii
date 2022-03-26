@@ -1,4 +1,4 @@
-# Hi there, I'm Sukhmani - aka [Suukhii]👋 
+### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
 I want to git guud in programming or smth
 
@@ -6,6 +6,11 @@ I want to git guud in programming or smth
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
 
+<div align="center">
+  <a href="https://github.com/Suukhii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
+</div>
 
 ### Languages and Tools:
 
@@ -25,16 +30,5 @@ I want to git guud in programming or smth
 
 <br />
 <br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="Suukhii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
-![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=SUUKHII&show_icons=true&theme=radical
-
-<br />
-<br />
-
+  
 ![snake gif](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.gif)
