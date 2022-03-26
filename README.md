@@ -25,6 +25,9 @@ I want to git guud in programming or smth
 
 <br />
 <br />
+---
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -33,7 +36,5 @@ I want to git guud in programming or smth
 
 <br />
 <br />
----
 
----
 ![snake gif](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake.gif)
