@@ -8,8 +8,8 @@ I want to git guud in programming or smth
 
 <div align="">
   <a href="https://github.com/Suukhii">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=Suukhii&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suukhii&layout=compact&langs_count=7&theme=calm"/>
   
 </div>
 <div style="display: inline_block"><br>
@@ -19,7 +19,6 @@ I want to git guud in programming or smth
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Rb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
