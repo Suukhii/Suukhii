@@ -4,7 +4,7 @@ I am 18 years old
 
 I want to git guud in programming or smth
 
-- 🖥️ I’m currently learning python and C++
+- 🖥️ I’m currently learning python and C++ 
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
 - 📮 If you wanna contact me add me on Discord Suukhii#9870
