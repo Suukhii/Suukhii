@@ -1,5 +1,7 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
+
 I am 18 years old
+
 I want to git guud in programming or smth
 
 - 🖥️ I’m currently learning python and C++
