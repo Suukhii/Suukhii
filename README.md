@@ -1,7 +1,5 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
-I am 18 years old
-
 - 🖥️ I’m currently learning python and C++ 
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
