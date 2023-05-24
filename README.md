@@ -1,11 +1,10 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
-
 - 🔭 I’m currently working _on [Automated Shelf](https://github.com/Nuddel69/SmartSkap)_
 - 🖥️ I’m currently learning python (pytorch) and C++ 
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
-- 
+- 🏆 My proudest work _[The mysteries of life](https://github.com/Suukhii/Chicken)_
 
 <div align="">
   <a href="https://github.com/Suukhii">
