@@ -1,6 +1,6 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
-- 🔭 I’m currently working _on [???](https://github.com/Suukhii/Dungeon-Crawler)_
+- 🔭 I’m currently working _on [???](https://github.com/Suukhii/RPG)_
 - 🖥️ I’m currently learning python (pytorch) and C++ 
 - 💤 I’m looking forward to sleep time
 - 🎮 I love to play games and sleep 
