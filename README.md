@@ -1,9 +1,9 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
 - 🔭 I’m currently working _on [Hehe secret project](https://github.com/Suukhii/RPG)_
-- 🖥️ I’m currently learning python (pytorch) and C++ 
+- 🖥️ I’m currently learning C# and Java 
 - 💤 I’m looking forward to sleep time
-- 🎮 I love to play games and sleep 
+- 🎮 Wanna play anything or chat (code ralated or not)  Discord: suukhii
 - 🏆 My proudest work _[The mysteries of life](https://github.com/Suukhii/Chicken)_
 
 <div align="">
