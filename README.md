@@ -3,7 +3,7 @@
 - 🔭 I’m currently working _on [Hehe secret project](https://github.com/Suukhii/RPG)_
 - 🖥️ I’m currently learning C# and Java 
 - 💤 I’m looking forward to sleep time
-- 🎮 Wanna play anything or chat (code ralated or not)  Discord: suukhii
+- 📬 How to reach me: _suukhii on Discord_
 - 🏆 My proudest work _[The mysteries of life](https://github.com/Suukhii/Chicken)_
 
 <div align="">
