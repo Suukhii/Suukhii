@@ -31,6 +31,8 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Suukhii)
 [![Raspberry Pi](https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi)](https://github.com/Suukhii)
 [![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)](https://github.com/Suukhii)
+[![Arduino](https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv)](https://github.com/Suukhii)
+
 
 ### Data Science
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/Suukhii)
