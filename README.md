@@ -4,7 +4,7 @@
 - 🖥️ I’m currently learning C# and Java 
 - 💤 I’m looking forward to sleep time
 - 📬 How to reach me: _suukhii on Discord_
-- 🏆 My proudest work _[The mysteries of life](https://github.com/Suukhii/Chicken)_
+- 🏆 My proudest work _[The mysteries of life](https://github.com/Suukhii/Chicken) jkjk unless ;)_ 
 
 <div align="">
   <a href="https://github.com/Suukhii">
