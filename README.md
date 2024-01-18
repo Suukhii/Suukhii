@@ -39,10 +39,10 @@
 
 
 ### Data Science
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/Suukhii)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/Suukhii)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/Suukhii)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/Suukhii)
+
   
 ### Tools
 [![Visual Studio](https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio)](https://github.com/Suukhii)
