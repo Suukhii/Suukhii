@@ -1,5 +1,9 @@
 ### Hi there, I'm Sukhmani - aka [Suukhii]👋 
 
+
+
+I am an undergraduate student studying Computer Science (Informasjonsteknologi) at OsloMet – Oslo Metropolitan University
+
 - 🔭 I’m currently working _on [Hehe secret project](https://github.com/Suukhii/RPG)_
 - 🖥️ I’m currently learning C# and Java 
 - 💤 I’m looking forward to sleep time
