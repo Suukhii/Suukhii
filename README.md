@@ -2,7 +2,7 @@
 
 
 
-  I am a second-year undergraduate student in Computer Scienceat  [Oslomet](https://www.oslomet.no/)
+  I am a second-year undergraduate student in Computer Science at [Oslomet](https://www.oslomet.no/)
 
 - 🔭 I’m currently working _on [Hehe secret project](https://github.com/Suukhii/RPG)_
 - 🖥️ I’m currently learning C# and Java 
