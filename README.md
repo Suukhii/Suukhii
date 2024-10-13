@@ -2,7 +2,7 @@
 
 
 
-I am a second-year undergraduate student studying Information Technology at [Oslomet](https://www.oslomet.no/), with a focus on Computer Science and software development
+I am a second-year undergraduate student studying Computer Science at [Oslomet](https://www.oslomet.no/)
 
 - 🔭 I’m currently working _on [Hehe secret project](https://github.com/Suukhii/RPG)_
 - 🖥️ I’m currently learning C# and Java 
