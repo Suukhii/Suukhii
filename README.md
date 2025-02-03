@@ -22,12 +22,16 @@ I am a second-year undergraduate student studying Computer Science at [Oslomet](
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Suukhii)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/Suukhii)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Suukhii)
+[![Mermaid](https://img.shields.io/badge/mermaid-black?style=for-the-badge&logo=mermaid)](https://github.com/Suukhii)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Suukhii)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Suukhii)
 
 
+
 ### Technologies & Frameworks
+[![JQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Suukhii)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Suukhii)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Suukhii)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Suukhii)
@@ -48,8 +52,10 @@ I am a second-year undergraduate student studying Computer Science at [Oslomet](
   
 ### Tools
 [![Visual Studio](https://img.shields.io/badge/visualstudio-black?style=for-the-badge&logo=visualstudio)](https://github.com/Suukhii)
-[![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/Suukhii)
+[![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/Suukhii)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Suukhii)
+[![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Suukhii)
+
 
 ![Snake animation](https://github.com/Suukhii/Suukhii/blob/output/github-contribution-grid-snake-dark.svg)
   
