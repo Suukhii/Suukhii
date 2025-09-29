@@ -2,7 +2,7 @@
 
 
 
-I am a second-year undergraduate student studying Computer Science at [Oslomet](https://www.oslomet.no/)
+I am a third-year undergraduate student studying Computer Science at [Oslomet](https://www.oslomet.no/)
 
 - 🖥️ I’m currently learning bash and python 
 - 💤 I’m looking forward to sleep time
